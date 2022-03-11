@@ -5,7 +5,9 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 
 Link para o curso [Python Pro](https://www.python.pro.br)
 
-[![Build Status](https://app.travis-ci.com/LeandroYamada/libpythonpro.svg?branch=main)](https://app.travis-ci.com/LeandroYamada/libpythonpro)
+[![Updates](https://pyup.io/repos/github/LeandroYamada/libpythonpro/shield.svg)](https://pyup.io/repos/github/LeandroYamada/libpythonpro/)
+[![Python 3](https://pyup.io/repos/github/LeandroYamada/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/LeandroYamada/libpythonpro/)
+
 
 Suportada versão 3 de Python
 
