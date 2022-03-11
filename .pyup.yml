@@ -3,10 +3,3 @@
 
 schedule: ''
 update: false
-search: true
-Pin: true
-Default Branch: main
-Branch pre-fix: pyup-
-Close PRs: true
-Label PRs: false
-Update hashes: True
