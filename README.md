@@ -7,6 +7,7 @@ Link para o curso [Python Pro](https://www.python.pro.br)
 
 [![Updates](https://pyup.io/repos/github/LeandroYamada/libpythonpro/shield.svg)](https://pyup.io/repos/github/LeandroYamada/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/LeandroYamada/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/LeandroYamada/libpythonpro/)
+[![codecov](https://codecov.io/gh/LeandroYamada/libpythonpro/branch/main/graph/badge.svg?token=JI5544RQV6)](https://codecov.io/gh/LeandroYamada/libpythonpro)
 
 
 Suportada versão 3 de Python
