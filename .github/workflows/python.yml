@@ -39,9 +39,4 @@ jobs:
     - name: Test with pytest
       run: |
         pytest libpythonpro --cov=libpythonpro
-    - name : " Carregar cobertura para Codecov "
-     usa : codecov/codecov-action@v2
-    com :
-       fail_ci_if_error : true
-      token : ${{ secrets.CODECOV_TOKEN }}
 
